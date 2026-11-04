@@ -1,10 +1,14 @@
+<div align="center">
+
 # Portfólio — Paulo Matheus
 
-![projetos](https://img.shields.io/badge/projetos-6366F1?style=flat-square&labelColor=111827) ![web](https://img.shields.io/badge/web-6366F1?style=flat-square&labelColor=111827) ![carreira](https://img.shields.io/badge/carreira-6366F1?style=flat-square&labelColor=111827)
+<p>Meus projetos de desenvolvimento web e tecnologia.</p>
 
-## Visão do projeto
+<img alt="Documentação" src="https://img.shields.io/badge/Documenta%C3%A7%C3%A3o-475569?style=for-the-badge&logo=markdown&logoColor=white" />
 
-Espaço para reunir projetos, experiências e evolução técnica.
+<sub>PROJETO · PAULO MATHEUS</sub>
+
+</div>
 
 ---
 
