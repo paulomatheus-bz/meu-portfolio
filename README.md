@@ -16,6 +16,8 @@ Espaço para reunir projetos, experiências e evolução técnica.
 
 Meu portfólio de desenvolvimento web, suporte técnico e projetos pessoais.
 
+Ele reúne trabalhos que já foram publicados e projetos que ainda estão evoluindo. Cada projeto mantém o próprio estado no respectivo repositório.
+
 ## Estado atual
 
 **Demonstração publicada.** Existe uma demonstração online, mas o código-fonte ainda não foi enviado para este repositório.
