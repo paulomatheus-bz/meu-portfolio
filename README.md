@@ -40,4 +40,4 @@ Versionar a aplicação publicada e manter os projetos apresentados atualizados.
 
 ---
 
-<p align="center"><sub>Portfólio · <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a> · Maceió, AL</sub></p>
+<p align="center"><sub>Portfólio · <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a> · Maceió, AL · <a href="https://www.instagram.com/kmtpl7/">Instagram @kmtpl7</a></sub></p>
