@@ -1,14 +1,10 @@
-<div align="center">
+# Portfólio — Paulo Matheus
 
-<sub>PORTFÓLIO</sub>
+![projetos](https://img.shields.io/badge/projetos-6366F1?style=flat-square&labelColor=111827) ![web](https://img.shields.io/badge/web-6366F1?style=flat-square&labelColor=111827) ![carreira](https://img.shields.io/badge/carreira-6366F1?style=flat-square&labelColor=111827)
 
-<h1>Meu Portfólio</h1>
+## Visão do projeto
 
-<p>Documentação inicial · Código ainda não publicado neste repositório.</p>
-
-<p><a href="#situação-do-repositório">Situação do repositório</a> &nbsp;·&nbsp; <a href="#acessar-o-repositório">Acessar o repositório</a> &nbsp;·&nbsp; <a href="#próximos-passos">Próximos passos</a> &nbsp;·&nbsp; <a href="#colaboração">Colaboração</a></p>
-
-</div>
+Espaço para reunir projetos, experiências e evolução técnica.
 
 ---
 
