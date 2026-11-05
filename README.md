@@ -11,3 +11,6 @@ A demonstração apresenta projetos de sites e ferramentas digitais, além de ex
 ## Sobre o repositório
 
 O código da versão publicada ainda não foi organizado aqui. Este repositório mantém a documentação do portfólio; por isso, o GitHub ainda não identifica linguagens de programação.
+---
+
+<p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
