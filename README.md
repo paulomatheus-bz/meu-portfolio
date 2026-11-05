@@ -17,4 +17,8 @@ A página reúne sites, ferramentas digitais e trabalhos que ainda estão em and
 
 O código do site publicado ainda não foi organizado neste repositório. Os badges representam a stack considerada para a próxima versão do portfólio.
 
+## Continuidade do projeto
+
+Vou revisar os links e o estágio de cada trabalho sempre que algo mudar. Quando o código da página for organizado neste repositório, acrescentarei as instruções de execução e atualizarei os badges para refletir as tecnologias realmente usadas.
+
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
