@@ -6,7 +6,7 @@
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
-<p><sub>Tecnologias previstas para implementação.</sub></p>
+<p><sub>Stack planejada para esta versão.</sub></p>
 Montei este portfólio para apresentar meus projetos de desenvolvimento web e experiências com tecnologia.
 
 **Acessar:** https://paulo-matheus-portfolio.vercel.app
