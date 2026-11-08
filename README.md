@@ -1,8 +1,6 @@
-<div align="center">
-
 # Portfólio — Paulo Matheus
 
-*Montei este portfólio para apresentar meus projetos de desenvolvimento web e experiências com tecnologia.*
+Montei este portfólio para apresentar meus projetos de desenvolvimento web e experiências com tecnologia.
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -10,7 +8,7 @@
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
-</div>
+---
 
 <p><sub>Stack planejada; o código ainda não está neste repositório.</sub></p>
 **Acessar:** https://paulo-matheus-portfolio.vercel.app
