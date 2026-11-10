@@ -1,6 +1,6 @@
 # Portfólio — Paulo Matheus
 
-Portfólio de Paulo Matheus com projetos web e experiências em tecnologia.
+Portfólio de Paulo Matheus com projetos e experiências em tecnologia.
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -10,10 +10,8 @@ Portfólio de Paulo Matheus com projetos web e experiências em tecnologia.
 
 ---
 
-**Acessar:** https://paulo-matheus-portfolio.vercel.app
+**Portfólio:** https://paulo-matheus-portfolio.vercel.app
 
-Este portfólio reúne projetos de desenvolvimento web, ferramentas e experiências com suporte técnico, Linux e infraestrutura. O estágio de cada trabalho é indicado para diferenciar projetos publicados de ideias em andamento.
-
-O código da página ainda não está neste repositório. Os badges mostram a stack considerada para uma futura organização do site.
+Reúne projetos web, ferramentas e experiências com suporte técnico, Linux e infraestrutura. O código publicado ainda não está neste repositório; os badges indicam a stack considerada para organizar a página.
 
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
