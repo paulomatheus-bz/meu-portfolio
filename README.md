@@ -14,4 +14,9 @@ Portfólio de Paulo Matheus com projetos e experiências em tecnologia.
 
 Reúne projetos web, ferramentas e experiências com suporte técnico, Linux e infraestrutura. O código publicado ainda não está neste repositório; os badges indicam a stack considerada para organizar a página.
 
+
+## Trajetória e projetos
+
+Apresentação dos trabalhos e experiências em desenvolvimento web, suporte técnico e infraestrutura.
+
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
